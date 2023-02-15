@@ -1,0 +1,11 @@
+# Language
+- PHP
+- Javascrip
+
+# Bahasa markup
+- HTML
+- CSS
+
+# Framwork
+- Laraver
+- CI
